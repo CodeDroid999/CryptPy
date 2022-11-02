@@ -9,7 +9,7 @@ def main_screen():
 
         #icon
         image_icon=PhotoImage(file="keys.png")
-        screen.iconphoto(false,image_icon)
+        screen.iconphoto(False,image_icon)
         screen.title("PctApp")
         
         Label(text="Enter text for encryption", fg="black",font=("calbri,13")).place(x=10,y=10)
