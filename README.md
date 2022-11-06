@@ -10,7 +10,7 @@ You should have a folder containing the following files:
   <li>crytpPy.py</li>
   <li>keys.png</li>
   <li>requirements.txt</li>
-<ol>
+</ol>
 2.Once you have a command prompt open to the correct path, you should type the following command:
      py -m pip install -r requirements.txt
 (to run the program successfully, we need a python module called pybase64 installed: running the above command installs it for you)
