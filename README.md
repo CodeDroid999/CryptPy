@@ -2,6 +2,13 @@ CryptPy - Python Message Encrypter/Decrypter.
 ________________________________________________________________________________________________________________________________________________________________________
 ### Overview
 CryptPy is a program written in Python to encrypt any messages and also decrypt the messages.
+### Get the Code
+
+```
+$ git clone https://github.com/CodeDroid999/Cryptpy.git
+
+```
+
 ### Installing
 1.You will first need to have Python installed and to make sure that you have added Python to PATH.
 Extract the folder to somewhere easily accessible.
