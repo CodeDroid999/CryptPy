@@ -1,0 +1,8 @@
+{
+  "builds": [
+    { "src": "cryptPy.py", "use": "@vercel/python" }
+  ],
+  "routes": [
+    { "src": "/(.*)", "dest": "cryptPy.py" }
+  ]
+}
