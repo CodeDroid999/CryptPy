@@ -3,27 +3,23 @@
 | **Please star ⭐ the repo if you find it useful. Issues and PRs are more then WELCOME!** |
 | --- |
          
-<table><tbody><tr><td><a href="https://github.com/CodeDroid999/CryptPy/stargazers"> Thank you dear stargazers! ⭐🤩 </a></td><td> <a href="https://github.com/JovianX/Service-Hub//blob/main/documentation/">Docs 🕮 </a></td><td><a href="https://discord.gg/CmFvFJDXZv"> Questions? Ask on Discord 💬 </a></td></tr></tbody></table>
+<table><tbody><tr><td><a href="https://github.com/CodeDroid999/CryptPy/stargazers"> Thank you dear stargazers! ⭐🤩 </a></td><td> <a href="https://github.com//">Docs 🕮 </a></td><td><a href="https://discord.gg/CmFvFJDXZv"> Questions? Ask on Discord 💬 </a></td></tr></tbody></table>
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/JovianX/Service-Hub)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/JovianX/Service-Hub)
-![GitHub contributors](https://img.shields.io/github/contributors/JovianX/Service-Hub)
+![GitHub contributors](https://img.shields.io/github/contributors/CryptPy)
 ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/platform_engineering)
 ![Discord](https://img.shields.io/discord/1014893148599754894)
-[![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+<!--[![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)--->
 </div>
-
-# What is JovianX Service Hub?
-
-
 # 📜 License
 
-Copyright 2022 JovianX Ltd.
+Copyright 2022 CodeDroid999.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 
-![JovianX](https://jovianx.com/wp-content/uploads/2021/05/Logo2-2.png)
-<img referrerpolicy="no-referrer-when-downgrade" src="https://static.scarf.sh/a.png?x-pxid=44b1bb3d-1d33-4c7a-bf39-18379b658acc" />
+
+# What is CryptPy?
 
 
 CryptPy - Python Message Encrypter/Decrypter.
